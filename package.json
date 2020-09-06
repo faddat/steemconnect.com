@@ -24,7 +24,7 @@
     "cors": "^2.7.1",
     "crypto": "0.0.3",
     "css-spacing": "^1.0.0",
-    "debug": "~2.2.0",
+    "debug": "~4.1.1",
     "ecurve": "^1.0.3",
     "express": "~4.13.1",
     "express-session": "^1.13.0",
